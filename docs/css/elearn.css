@@ -1,0 +1,97 @@
+.lesson-bottom-btn {
+    background: #0057ff;
+    padding: 12px 18px;
+    color: white !important;
+    border-radius: 6px;
+    font-weight: 600;
+    text-decoration: none !important;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.25);
+}
+
+.lesson-bottom-btn:hover {
+    background: #0039c9;
+}
+
+/* Bottom page-end navigation buttons */
+.lesson-nav {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lesson-nav-button {
+    padding: 12px 18px;
+    border-radius: 6px;
+    text-decoration: none !important;
+    font-size: 0.9em;
+    font-weight: 600;
+    color: white !important;
+    background: #0057ff;
+    transition: background 0.2s ease;
+}
+
+.lesson-nav-button:hover {
+    background: #0039c9;
+}
+
+/* Lesson index in sidebar */
+.lesson-index-title {
+    font-size: 0.9em;
+    font-weight: 700;
+    margin-bottom: 8px;
+    margin-top: 10px;
+}
+
+.lesson-index {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.lesson-index li {
+    margin-bottom: 6px;
+}
+
+.lesson-index li.active a {
+    font-weight: 700;
+    color: #0057ff !important;
+}
+
+/* Improve overall readability */
+.lesson-index a {
+    text-decoration: none;
+    color: var(--md-default-fg-color);
+}
+
+/* Chapter Accordion */
+.chapter-index-title {
+    font-size: 0.9em;
+    font-weight: 700;
+    margin: 12px 0;
+}
+
+.chapter-block {
+    margin-bottom: 10px;
+}
+
+.chapter-title {
+    font-size: 0.9em;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.chapter-lessons {
+    list-style: none;
+    padding-left: 16px;
+    margin-top: 6px;
+}
+
+.chapter-lessons li {
+    margin-bottom: 4px;
+}
+
+.chapter-lessons li.active > a {
+    color: #0057ff !important;
+    font-weight: 700;
+}

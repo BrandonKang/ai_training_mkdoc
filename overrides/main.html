@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+
+{% block head %}
+  {{ super() }}
+
+  <style>
+    #progress-container {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 4px;
+      background: rgba(0,0,0,0.15);
+      z-index: 9999;
+    }
+    #progress-bar {
+      height: 4px;
+      width: 0%;
+      background: #00b4ff;
+      transition: width 0.1s ease-out;
+    }
+  </style>
+
+  <script>
+    document.addEventListener('scroll', () => {
+      const scrollTop = document.documentElement.scrollTop;
+      const scrollHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      const progress = (scrollTop / scrollHeight) * 100;
+      const bar = document.getElementById('progress-bar');
+      if (bar) bar.style.width = progress + "%";
+    });
+  </script>
+{% endblock %}
+
+{% block content %}
+  <!-- Progress bar must be placed INSIDE content block -->
+  <div id="progress-container">
+    <div id="progress-bar"></div>
+  </div>
+
+  {{ super() }}
+
+  <!-- Prev/Next navigation -->
+  <div class="lesson-nav">
+    {% if page.previous_page %}
+      <a class="lesson-nav-button left" href="{{ page.previous_page.url | url }}">
+        ⬅ Previous: {{ page.previous_page.title }}
+      </a>
+    {% endif %}
+
+    {% if page.next_page %}
+      <a class="lesson-nav-button right" href="{{ page.next_page.url | url }}">
+        Next: {{ page.next_page.title }} ➡
+      </a>
+    {% endif %}
+  </div>
+{% endblock %}

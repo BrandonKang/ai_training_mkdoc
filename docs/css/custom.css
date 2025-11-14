@@ -1,0 +1,21 @@
+/* Left alignment */
+figure {
+    margin: 0 !important;
+    padding: 0;
+    text-align: left !important;
+}
+
+/* Left alignment for images */
+figure img {
+    display: block !important;
+    margin: 0 !important;   /* remove default auto margin */
+    padding: 0;
+}
+
+/* Left alignment for image captions */
+figure figcaption {
+    text-align: left !important;
+    margin: 2px 0 0 0 !important;
+    font-size: 0.8em;
+    color: #888;
+}

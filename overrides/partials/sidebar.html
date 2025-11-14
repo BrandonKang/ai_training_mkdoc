@@ -1,0 +1,24 @@
+{% extends "partials/sidebar.html" %}
+
+{% block after %}
+<hr>
+<div class="chapter-index-title">📘 Course Chapters</div>
+
+<div class="chapters">
+  {% for nav_item in nav %}
+    {% if nav_item.children %}
+      <details class="chapter-block" {% if page.url.startswith(nav_item.url) %}open{% endif %}>
+        <summary class="chapter-title">{{ nav_item.title }}</summary>
+
+        <ul class="chapter-lessons">
+          {% for child in nav_item.children %}
+            <li class="{% if child.url == page.url %}active{% endif %}">
+              <a href="{{ child.url | url }}">{{ child.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </details>
+    {% endif %}
+  {% endfor %}
+</div>
+{% endblock %}

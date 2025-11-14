@@ -1,0 +1,29 @@
+.lesson-nav {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lesson-nav-button {
+    padding: 12px 18px;
+    border-radius: 6px;
+    text-decoration: none !important;
+    font-size: 0.9em;
+    font-weight: 600;
+    color: white !important;
+    background: #0057ff;
+    transition: background 0.2s ease;
+}
+
+.lesson-nav-button:hover {
+    background: #0039c9;
+}
+
+.lesson-nav-button.left {
+    margin-right: auto;
+}
+
+.lesson-nav-button.right {
+    margin-left: auto;
+}

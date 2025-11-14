@@ -1,0 +1,90 @@
+{% extends "base.html" %}
+
+{% block header %}
+  {{ super() }}
+
+  <!-- Progress Bar BELOW Material Header -->
+  <div id="progress-container">
+    <div id="progress-bar"></div>
+    <div id="progress-text">0%</div>
+  </div>
+{% endblock %}
+
+{% block extrahead %}
+  {{ super() }}
+
+  <style>
+    /* Progress bar container */
+    #progress-container {
+      position: fixed;
+      top: 64px; /* Material header height */
+      left: 0;
+      width: 100%;
+      height: 6px;
+      background: rgba(255,255,255,0.08);
+      z-index: 2000;
+    }
+
+    /* Akamai Gradient Progress Bar */
+    #progress-bar {
+      height: 6px;
+      width: 0%;
+      background: linear-gradient(90deg, #00C8FF, #0080FF);
+      transition: width 0.1s ease-out;
+    }
+
+    /* Percentage text */
+    #progress-text {
+      position: absolute;
+      right: 10px;
+      top: -28px;
+      background: rgba(0,0,0,0.55);
+      color: #fff;
+      padding: 4px 10px;
+      border-radius: 10px;
+      font-size: 0.75em;
+      font-weight: 600;
+      backdrop-filter: blur(6px);
+    }
+  </style>
+
+  <script>
+    document.addEventListener('scroll', () => {
+      const scrollTop = document.documentElement.scrollTop;
+      const scrollHeight =
+        document.documentElement.scrollHeight -
+        document.documentElement.clientHeight;
+
+      const progress = scrollHeight > 0 ? (scrollTop / scrollHeight * 100) : 0;
+
+      const bar = document.getElementById('progress-bar');
+      const text = document.getElementById('progress-text');
+
+      if (bar) bar.style.width = progress + "%";
+      if (text) text.innerText = Math.round(progress) + "%";
+    });
+  </script>
+{% endblock %}
+
+{% block content %}
+  {{ super() }}
+
+  <!-- Page-end Prev/Next Navigation Buttons -->
+  <div class="lesson-nav">
+    {% if page.previous_page %}
+      <a class="lesson-nav-button left" href="{{ page.previous_page.url | url }}">
+        ⬅ Previous: {{ page.previous_page.title }}
+      </a>
+    {% endif %}
+
+    {% if page.next_page %}
+      <a class="lesson-nav-button right" href="{{ page.next_page.url | url }}">
+        Next: {{ page.next_page.title }} ➡
+      </a>
+    {% endif %}
+  </div>
+{% endblock %}
+
+{% block footer %}
+  {{ super() }}
+{% endblock %}
