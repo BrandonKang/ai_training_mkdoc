@@ -8,6 +8,8 @@
 
 # Evolution of Neural Network Architectures
 
+<img src="../assets/foundations_of_modern_ai.jpg" alt="Foundations of Modern AI" width="300">
+
 ## Neural Networks (NN)
 - Basic fully connected layers  
 - Learn simple to moderately complex patterns  
