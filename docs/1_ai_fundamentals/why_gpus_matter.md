@@ -27,4 +27,4 @@ Training large language models requires multi-GPU clusters with high-speed inter
     if torch.cuda.is_available():
         print("Device name:", torch.cuda.get_device_name(0))
 
-![GPU vs CPU](../assets/gpu_vs_cpu.png)
+![GPU vs CPU](../assets/cpu-vs-gpu.jpg)

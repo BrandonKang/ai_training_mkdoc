@@ -18,4 +18,4 @@ Example command sequence:
     python 03_load_data.py
     python 04_train_model.py
 
-![Data Pipeline Flow](../assets/data_pipeline_flow.png)
+<img src="../assets/ml-lifecycle.jpg" alt="Machine Learning Workflow" width="500">
