@@ -11,6 +11,7 @@ theme:
     - navigation.sections
     - toc.integrate
     - content.code.annotate
+    - content.image.zoom
   palette:
     scheme: default
     primary: blue
@@ -33,7 +34,8 @@ nav:
       - Overview: 3_platforms_ecosystem/index.md
       - CNCF & MLOps Toolchains: 3_platforms_ecosystem/cncf_mlopstoolchains.md
       - NVIDIA Ecosystem: 3_platforms_ecosystem/nvidia_ecosystem.md
-  - 4. Quiz:
+  - 4. Summary: summary.md
+  - 5. Quiz:
       - AI Knowledge Review: 4_quiz/ai_quiz.md
 
 plugins:
@@ -58,10 +60,11 @@ extra_css:
   - css/nav-buttons.css
   - css/elearn.css
   - css/quiz.css
-
+  - css/footer.css
+  
 extra_javascript:
   - js/quiz.js
 
 extra:
   content_scripts:
-    - js/quiz.js        # <<<<<<<<<<<<<<<<<<<<<<<<<<<<<< 반드시 필요
+    - js/quiz.js
