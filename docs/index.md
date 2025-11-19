@@ -4,9 +4,10 @@ Welcome to the AI All-in-One Handbook — an e-learning guide for engineers star
 
 This handbook is structured as a short, one-hour enablement:
 
-- 1. AI Fundamentals and Core Building Blocks (15 min)
-- 2. AI Training, Inference Architecture, and RAG (10 min)
-- 3. AI Platforms & Ecosystem: CNCF Toolchains and NVIDIA Acceleration Stack (20 min)
+- AI fundamentals and core building blocks (15 min)
+- AI training, inference architecture, and RAG (10 min)
+- AI platforms & ecosystem: CNCF toolchains and NVIDIA acceleration stack (20 min)
+- Quiz
 
 ---
 

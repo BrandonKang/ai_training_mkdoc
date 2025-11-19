@@ -1,0 +1,1111 @@
+nohup: ignoring input
+INFO    -  Building documentation...
+INFO    -  Cleaning site directory
+INFO    -  Building documentation to directory: /tmp/mkdocs_bkxxmwb8
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  Documentation built in 0.53 seconds
+INFO    -  [09:30:30] Watching paths for changes: 'docs', 'mkdocs.yml'
+INFO    -  [09:30:30] Serving on http://0.0.0.0:8000/
+INFO    -  [09:34:16] Browser connected: http://learn-ai.akamaized.net/
+INFO    -  [09:34:20] Browser connected: http://learn-ai.akamaized.net/1_ai_fundamentals/
+INFO    -  [09:34:23] Browser connected: http://learn-ai.akamaized.net/1_ai_fundamentals/foundations_of_modern_ai/
+INFO    -  [09:34:27] Browser connected: http://learn-ai.akamaized.net/1_ai_fundamentals/learning_paradigms/
+INFO    -  [09:34:32] Browser connected: http://learn-ai.akamaized.net/1_ai_fundamentals/data_pipelines/
+INFO    -  [09:34:34] Browser connected: http://learn-ai.akamaized.net/1_ai_fundamentals/why_gpus_matter/
+INFO    -  [09:36:56] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/
+INFO    -  [09:37:01] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+INFO    -  [09:37:17] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  Documentation built in 0.40 seconds
+INFO    -  [09:37:17] Reloading browsers
+INFO    -  [09:37:18] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+INFO    -  [09:42:14] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  Documentation built in 0.38 seconds
+INFO    -  [09:42:15] Reloading browsers
+INFO    -  [09:42:16] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+INFO    -  [09:42:24] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:42:25] Reloading browsers
+INFO    -  [09:42:25] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+INFO    -  [09:42:57] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:42:58] Reloading browsers
+INFO    -  [09:42:58] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+INFO    -  [09:43:15] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:43:16] Reloading browsers
+INFO    -  [09:43:16] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+INFO    -  [09:43:32] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:43:33] Reloading browsers
+INFO    -  [09:43:33] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+INFO    -  [09:43:44] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  Documentation built in 0.39 seconds
+INFO    -  [09:43:44] Reloading browsers
+INFO    -  [09:43:45] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+INFO    -  [09:43:52] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:43:53] Reloading browsers
+INFO    -  [09:43:53] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+INFO    -  [09:44:03] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:44:03] Reloading browsers
+INFO    -  [09:44:04] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+INFO    -  [09:44:16] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [09:44:32] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:44:32] Reloading browsers
+INFO    -  [09:44:33] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [09:44:42] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:44:43] Reloading browsers
+INFO    -  [09:44:43] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [09:45:39] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:45:39] Reloading browsers
+INFO    -  [09:45:39] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [09:46:41] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:46:41] Reloading browsers
+INFO    -  [09:46:41] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [09:47:57] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:47:58] Reloading browsers
+INFO    -  [09:48:00] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [09:48:59] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:48:59] Reloading browsers
+INFO    -  [09:49:00] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [09:49:11] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/vector_databases_and_rag/
+INFO    -  [09:49:54] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  Documentation built in 0.41 seconds
+INFO    -  [09:49:54] Reloading browsers
+INFO    -  [09:49:54] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/vector_databases_and_rag/
+INFO    -  [09:50:37] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+WARNING -  [09:52:33] "MGLNDD_104.64.128.179_8000" code 400
+WARNING -  [09:53:33] "    c                           " code 400
+INFO    -  [09:54:51] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:54:51] Reloading browsers
+INFO    -  [09:54:51] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:54:52] Reloading browsers
+INFO    -  [09:54:55] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  Documentation built in 0.37 seconds
+INFO    -  [09:54:56] Reloading browsers
+INFO    -  [09:54:59] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [09:55:14] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:55:15] Reloading browsers
+INFO    -  [09:55:15] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [09:55:23] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:55:23] Reloading browsers
+INFO    -  [09:55:23] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [09:56:40] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:56:40] Reloading browsers
+INFO    -  [09:56:43] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [09:56:53] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [09:56:54] Reloading browsers
+INFO    -  [09:56:54] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+WARNING -  [10:12:45] "JDWP-Handshake   	    " code 400
+WARNING -  [10:29:47] " {  wøÍ}oèÎ¹3]XÜ¦Úü¹«ÿÎÎTg"  À/À+ÀÀÀÀ	ÀÀ" code 400
+WARNING -  [10:29:48] " {  w$0ªjrM?*UV¶a"åu£Éðæk º\È  À/À+ÀÀÀÀ	ÀÀ" code 400
+WARNING -  [10:29:48] "GET /login HTTP/1.1" code 404
+WARNING -  [11:17:58] "    c                           " code 400
+WARNING -  [12:24:14] "GET http://api.ipify.org/?format=json HTTP/1.1" code 404
+WARNING -  [12:24:18] "CONNECT www.shadowserver.org:443 HTTP/1.1" code 404
+INFO    -  [13:54:53] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [13:54:53] Reloading browsers
+INFO    -  [13:54:54] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [13:55:23] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/vector_databases_and_rag/
+INFO    -  [13:55:26] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [13:56:34] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [13:56:34] Reloading browsers
+INFO    -  [13:56:36] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [13:57:48] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [13:57:48] Reloading browsers
+INFO    -  [13:57:49] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [13:58:15] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow2.png', it was left as is. Did you mean '../assets/ai_inference_flow2.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [13:58:15] Reloading browsers
+INFO    -  [13:58:16] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [13:58:51] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [13:58:52] Reloading browsers
+INFO    -  [13:58:53] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+WARNING -  [14:05:44] "% !(ÿÜí}Ú ÒThw¤çÑ;î0!´ÔkWuzR B·<©¿ÊÔ1ÍÅJKá:JaæëMíêªý 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:05:44] "! ×,ÔæW@t¤¡aæ);£3ìsT¯ÝÛHtEW 6º©t~EúÊÖ·1roÊçf6®ßªu¶[7*! 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:05:44] "! vÿòBbÅÐË<Ai`]Sl*^ÎàÄx5 Jû>V#_>&<}ÑèÒo^;d ý¶2©Ø 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:05:44] "! õ´g4³/2Á¾3¾lyñ¶lbZ!>Yý ÇhðoÜôGÇÑçD¹õeUO"åEÇ¦U;º  2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:05:44] "! ·J£ªoþº('íüÿ{gº]­6éhÉ½#tI KPÿÛèÌn¢h¶-b8cqSÖ!}?2À 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:05:44] "! H/\§æG`(±ØÆhF;7±²?È"[ Õ¹-j.¥rkô³µñlÆlp¼f59>º .ÒëÅ²ç¸ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:05:44] "! µ+_2!;waqú*öïWô|áWé¬ ¿«ëËöº¤³ñ¯,¸ãT{5Ô:-­¢óÄ¡4 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:05:44] "% !¥\¶È?góêØFñäÇ»" code 400
+WARNING -  [14:05:44] "% !ÆËýT3¯&©prs;×æP^±¡%B^{ êMÕìK"Ú ø /æ_AYÅ¢D_	Ïnk¢, 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:05:44] "% !äÓtìísòm»,Õ-t<0û$F÷ ÒìN6bg àý^ð²L_ÇØ@fþMD	'-'$öÂÿÿ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:05:45] "% !ÝÿÆPókËS »ö'3)wa¶:AÊ;< k%åu" code 400
+WARNING -  [14:05:45] "% !ËöBã]»0^+|!ýUÈìVôúØcVî8þ¹ y`»ó¬DØáCñ0½Êæ@Øgg0d¤ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:05:45] "% !ÀQD)jjÿ|ìã<×ðåªápz!³M¸8çý yóçþ³Æ,!ò, @r·8Wn»QIøÇ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:05:45] "% !¤R3ßõvàâo¹ßsoQiüÐ±px±	±dÕ¤Æ D£w¶-;#"¿QÈïa°pÕhÝüÙÊ1 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:06:37] ") %Vû($£ åp_ÉÝjý4¯ªÀºÝ"® .²ÇV×tÃEÊé¹ñ"Ç­Y'7Òý~¦{öñ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:06:37] ") %ßrR:Ë­S$îð9tÄeî~Öçl×U eO4bx@jw~Vôþòyo/_â'DûõVQ! 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:06:37] "- )`SVuLÀègPi¡Î?¸TµÂ²¥jno8AT È«)1´W@Y®XazÑÿFqfk+|Ú¹ð$ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:06:37] ") %ã#á13!3%SØÚM#Oý,PÐ °¥à°0ã¥4*ûÈÎâæÈÞy,ÿísYYØCï 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:06:37] ") %B² »¹Á*¸+Ü)ü®ïAéeÄâø5ÉÕJ  ÿ¿¡õ§Ô25æFJ´W.ÈG*²¥[)å 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:06:38] "- )Ú§|SÝÚvuOÂ_MÌÊzÿÛ#¤ÿ$`;Á#  +bJ¢Üf è.Hÿ]6Lã$ìÙ«-JÀçW¿ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:06:38] ") %ç«MF°³àZ8,o'Êuº´ßíc zc2_Ü^ýð[8 |ç2-%¼,çúX 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:06:38] ") %8æcZè>ýss`ÜU»©çEYõfIo óë©PÎ	CÂaàüÚØ§:nd¥I` 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:06:38] "- )]×7iSËIýìq4_ûdºY*í#õÌÍzË e W°]`@ÞcúR´fgå.ÿC\ ¿*×Äíúï3<b 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:06:38] ") %!mÊ"Îh}kÛT±7"ðRî {F bÏE/Güh)aB®àÄsã=5¦ØÍ<Ä]×8Ò}Î 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:06:38] ") %ÏøØÐIòWqÊT]ôFÝp\?2d²ÐBñáí Ë(­Ö÷q­ÂeFmí©¢*ØµÜTÌ>>`Í 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:06:38] ") %ër4¶aú®÷Iô;Cªe¶Òúe¹úý<¼ÜgÙÉ; ãÛÄ»/iG6z)¶ÿLòùã"~þýôEÀÂ#àÑ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:06:39] ") %È¶a	DT?]±XG<]ÐÒJb3ÃHDo¸ B?¸ÿèQÄøòL\ôû"ï5<#ÑKäuØ- 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [14:06:39] ") %µ¨º§~~¡t~àh½LýÜb0FäI¶ºæ lI¼ÉWüWIWbÑÌÔò6IcôfS¬»Ö 2À+À,À/À0 = < 5 / " code 400
+INFO    -  [14:08:39] Browser connected: http://learn-ai.akamaized.net/
+INFO    -  [14:09:00] Browser connected: http://learn-ai.akamaized.net/1_ai_fundamentals/
+INFO    -  [14:09:03] Browser connected: http://learn-ai.akamaized.net/1_ai_fundamentals/foundations_of_modern_ai/
+INFO    -  [14:09:04] Browser connected: http://learn-ai.akamaized.net/1_ai_fundamentals/learning_paradigms/
+INFO    -  [14:09:08] Browser connected: http://learn-ai.akamaized.net/1_ai_fundamentals/data_pipelines/
+INFO    -  [14:09:10] Browser connected: http://learn-ai.akamaized.net/1_ai_fundamentals/why_gpus_matter/
+INFO    -  [14:09:14] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/
+INFO    -  [14:09:15] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+INFO    -  [14:26:54] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [14:26:54] Reloading browsers
+INFO    -  [14:26:54] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [14:26:55] Reloading browsers
+INFO    -  [14:27:34] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [14:27:34] Reloading browsers
+INFO    -  [14:27:38] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+INFO    -  [14:27:43] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:27:55] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [14:27:56] Reloading browsers
+INFO    -  [14:27:56] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:29:42] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [14:29:42] Reloading browsers
+INFO    -  [14:29:42] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [14:29:43] Reloading browsers
+INFO    -  [14:29:48] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:30:14] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [14:30:14] Reloading browsers
+INFO    -  [14:30:15] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:33:28] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [14:33:28] Reloading browsers
+INFO    -  [14:39:52] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:39:55] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:49:10] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:52:23] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:53:47] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [14:53:47] Reloading browsers
+INFO    -  [14:53:49] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:53:54] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:54:28] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [14:54:28] Reloading browsers
+INFO    -  [14:54:29] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:55:24] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [14:55:24] Reloading browsers
+INFO    -  [14:55:25] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:56:11] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [14:56:12] Reloading browsers
+INFO    -  [14:56:12] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:56:41] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [14:56:42] Reloading browsers
+INFO    -  [14:56:42] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:57:28] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [14:57:29] Reloading browsers
+INFO    -  [14:57:29] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:57:37] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:58:59] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [14:59:00] Reloading browsers
+INFO    -  [14:59:00] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [14:59:08] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:00:40] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/hf_ui.png', it was left as is. Did you mean '../assets/hf_ui.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:00:40] Reloading browsers
+INFO    -  [15:00:41] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:01:37] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:01:38] Reloading browsers
+INFO    -  [15:01:38] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:02:37] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:02:37] Reloading browsers
+INFO    -  [15:02:38] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:03:02] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:03:02] Reloading browsers
+INFO    -  [15:03:03] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:03:07] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  Documentation built in 0.43 seconds
+INFO    -  [15:03:08] Reloading browsers
+INFO    -  [15:03:08] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:03:11] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/vector_databases_and_rag/
+INFO    -  [15:04:40] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:04:40] Reloading browsers
+INFO    -  [15:04:41] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/vector_databases_and_rag/
+INFO    -  [15:05:00] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:05:00] Reloading browsers
+INFO    -  [15:05:00] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/vector_databases_and_rag/
+INFO    -  [15:05:10] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:05:11] Reloading browsers
+INFO    -  [15:05:11] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/vector_databases_and_rag/
+INFO    -  [15:05:28] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:05:29] Reloading browsers
+INFO    -  [15:05:29] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/vector_databases_and_rag/
+INFO    -  [15:05:56] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:08:04] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:08:05] Reloading browsers
+INFO    -  [15:08:05] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:08:39] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:08:40] Reloading browsers
+INFO    -  [15:08:40] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:08:54] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:08:54] Reloading browsers
+INFO    -  [15:08:55] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:09:54] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:09:54] Reloading browsers
+INFO    -  [15:09:54] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:10:22] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:10:23] Reloading browsers
+INFO    -  [15:10:23] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:10:30] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:10:31] Reloading browsers
+INFO    -  [15:10:31] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:10:53] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  Documentation built in 0.42 seconds
+INFO    -  [15:10:53] Reloading browsers
+INFO    -  [15:10:54] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:10:57] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:10:58] Reloading browsers
+INFO    -  [15:10:58] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:11:01] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:11:35] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:11:36] Reloading browsers
+INFO    -  [15:11:37] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:12:37] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:12:37] Reloading browsers
+INFO    -  [15:12:38] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:13:08] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:13:08] Reloading browsers
+INFO    -  [15:13:09] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:13:17] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:13:17] Reloading browsers
+INFO    -  [15:13:18] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:13:24] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:13:25] Reloading browsers
+INFO    -  [15:13:25] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:13:48] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:13:48] Reloading browsers
+INFO    -  [15:13:55] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:14:31] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:14:31] Reloading browsers
+INFO    -  [15:14:31] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:14:44] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/vector_databases_and_rag/
+INFO    -  [15:15:14] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:15:16] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+INFO    -  [15:20:26] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:20:27] Reloading browsers
+INFO    -  [15:20:27] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+INFO    -  [15:20:31] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/vector_databases_and_rag/
+INFO    -  [15:20:34] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/inference_architecture/
+INFO    -  [15:20:36] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+INFO    -  [15:21:00] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/
+INFO    -  [15:21:03] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/
+INFO    -  [15:21:05] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/cncf_mlopstoolchains/
+INFO    -  [15:21:07] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:21:48] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:21:49] Reloading browsers
+INFO    -  [15:21:49] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:22:00] Browser connected: http://learn-ai.akamaized.net/summary/
+INFO    -  [15:22:13] Browser connected: http://learn-ai.akamaized.net/4_quiz/ai_quiz/
+INFO    -  [15:23:10] Browser connected: http://learn-ai.akamaized.net/
+INFO    -  [15:24:27] Browser connected: http://learn-ai.akamaized.net/
+INFO    -  [15:24:28] Browser connected: http://learn-ai.akamaized.net/
+INFO    -  [15:24:31] Browser connected: http://learn-ai.akamaized.net/
+INFO    -  [15:25:04] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/
+INFO    -  [15:25:07] Browser connected: http://learn-ai.akamaized.net/1_ai_fundamentals/
+INFO    -  [15:25:10] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/
+INFO    -  [15:25:11] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:25:53] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:25:54] Reloading browsers
+INFO    -  [15:25:54] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:43:38] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:43:39] Reloading browsers
+INFO    -  [15:43:39] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:43:48] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:43:49] Reloading browsers
+INFO    -  [15:43:49] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:43:59] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:43:59] Reloading browsers
+INFO    -  [15:43:59] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:44:08] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:44:09] Reloading browsers
+INFO    -  [15:44:09] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:44:13] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:44:13] Reloading browsers
+INFO    -  [15:44:14] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:44:30] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:44:30] Reloading browsers
+INFO    -  [15:44:31] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:45:59] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:46:00] Reloading browsers
+INFO    -  [15:46:00] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:46:16] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:46:16] Reloading browsers
+INFO    -  [15:46:17] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:46:26] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:46:26] Reloading browsers
+INFO    -  [15:46:27] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:46:31] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:46:31] Reloading browsers
+INFO    -  [15:46:32] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:46:44] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:46:45] Reloading browsers
+INFO    -  [15:46:45] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:55:53] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:55:54] Reloading browsers
+INFO    -  [15:55:54] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [15:58:13] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [15:58:13] Reloading browsers
+INFO    -  [15:58:15] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:00:31] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:00:32] Reloading browsers
+INFO    -  [16:00:32] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:00:42] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:00:43] Reloading browsers
+INFO    -  [16:00:43] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:01:31] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:01:32] Reloading browsers
+INFO    -  [16:01:32] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:03:08] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:03:08] Reloading browsers
+INFO    -  [16:03:09] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:04:40] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:04:41] Reloading browsers
+INFO    -  [16:05:38] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:05:38] Reloading browsers
+INFO    -  [16:05:44] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:06:14] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:06:15] Reloading browsers
+INFO    -  [16:06:15] Detected file changes
+INFO    -  Building documentation...
+INFO    -  [16:06:15] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:06:16] Reloading browsers
+INFO    -  [16:06:16] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:06:29] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  Documentation built in 0.60 seconds
+INFO    -  [16:06:30] Reloading browsers
+INFO    -  [16:06:30] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:06:52] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:06:53] Reloading browsers
+INFO    -  [16:06:53] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:07:04] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:07:05] Reloading browsers
+INFO    -  [16:07:05] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:07:11] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:07:12] Reloading browsers
+INFO    -  [16:07:12] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:07:37] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:07:38] Reloading browsers
+INFO    -  [16:07:38] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:07:45] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:07:45] Reloading browsers
+INFO    -  [16:07:46] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:07:56] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:07:56] Reloading browsers
+INFO    -  [16:07:57] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:08:20] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:08:21] Reloading browsers
+INFO    -  [16:08:21] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:09:06] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:09:07] Reloading browsers
+INFO    -  [16:09:07] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:09:38] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:09:39] Reloading browsers
+INFO    -  [16:09:41] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:09:43] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:09:50] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:09:51] Reloading browsers
+INFO    -  [16:09:51] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:15:04] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:15:04] Reloading browsers
+INFO    -  [16:15:06] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:15:11] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:15:12] Reloading browsers
+INFO    -  [16:15:12] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:15:19] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:15:20] Reloading browsers
+INFO    -  [16:15:20] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:15:35] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:15:36] Reloading browsers
+INFO    -  [16:15:36] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:15:47] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:15:47] Reloading browsers
+INFO    -  [16:15:48] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:16:15] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:16:16] Reloading browsers
+INFO    -  [16:16:16] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:16:19] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:16:20] Reloading browsers
+INFO    -  [16:16:20] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:16:27] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:16:27] Reloading browsers
+INFO    -  [16:16:28] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:18:49] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:18:49] Reloading browsers
+INFO    -  [16:18:50] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:19:17] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:19:18] Reloading browsers
+INFO    -  [16:19:18] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:21:13] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:21:14] Reloading browsers
+INFO    -  [16:21:14] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:21:23] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:21:24] Reloading browsers
+INFO    -  [16:21:24] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [16:26:07] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [16:26:07] Reloading browsers
+INFO    -  [16:26:09] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+----------------------------------------
+Exception occurred during processing of request from ('167.94.146.58', 19760)
+Traceback (most recent call last):
+  File "/usr/lib/python3.12/socketserver.py", line 692, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.12/socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.12/socketserver.py", line 761, in __init__
+    self.handle()
+  File "/usr/lib/python3.12/wsgiref/simple_server.py", line 118, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.12/socket.py", line 707, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+WARNING -  [16:39:21] " î  ê4;e±yHA~Ð)JïÙì#[©V Ôà~Q 3kÀK0" code 400
+WARNING -  [16:39:24] "PRI * HTTP/2.0" code 505
+WARNING -  [16:39:36] " î  êÄ±> Ó<Ä^"Å Æ5<oUÜ)á^ÌÂS±hÜ!Ø  \(UTU¿UË" code 400
+WARNING -  [16:39:37] "GET /.well-known/security.txt HTTP/1.1" code 404
+WARNING -  [20:03:22] "1111      %­>" code 400
+WARNING -  [20:03:22] "1111    	    ü   admin                                                           queryBasicCfg                                                   <?xml version="1.0" encoding="UTF-8"?>" code 400
+WARNING -  [21:20:34] "1111      %­>" code 400
+WARNING -  [21:20:34] "1111    	    ü   admin                                                           queryBasicCfg                                                   <?xml version="1.0" encoding="UTF-8"?>" code 400
+INFO    -  [23:25:08] Browser connected: http://ai.akamai.edgesuite-staging.net/1_ai_fundamentals/why_gpus_matter/
+WARNING -  [00:38:42] "GET http://api.ipify.org/?format=json HTTP/1.1" code 404
+WARNING -  [00:38:45] "CONNECT www.shadowserver.org:443 HTTP/1.1" code 404
+INFO    -  [00:45:18] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [00:46:05] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [00:46:05] Reloading browsers
+INFO    -  [00:46:06] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [00:46:07] Browser connected: http://ai.akamai.edgesuite-staging.net/1_ai_fundamentals/why_gpus_matter/
+INFO    -  [00:46:39] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [00:46:40] Reloading browsers
+INFO    -  [00:46:41] Browser connected: http://ai.akamai.edgesuite-staging.net/1_ai_fundamentals/why_gpus_matter/
+INFO    -  [00:46:50] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [00:46:54] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [00:47:14] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [00:47:15] Reloading browsers
+INFO    -  [00:47:16] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [00:47:16] Browser connected: http://ai.akamai.edgesuite-staging.net/1_ai_fundamentals/why_gpus_matter/
+INFO    -  [00:48:56] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [00:48:56] Reloading browsers
+INFO    -  [00:48:57] Browser connected: http://ai.akamai.edgesuite-staging.net/1_ai_fundamentals/why_gpus_matter/
+INFO    -  [00:49:01] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [00:49:34] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [00:49:34] Reloading browsers
+INFO    -  [00:49:35] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [00:49:35] Browser connected: http://ai.akamai.edgesuite-staging.net/1_ai_fundamentals/why_gpus_matter/
+INFO    -  [00:50:01] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [00:50:01] Reloading browsers
+INFO    -  [00:50:02] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [00:50:03] Browser connected: http://ai.akamai.edgesuite-staging.net/1_ai_fundamentals/why_gpus_matter/
+INFO    -  [00:50:46] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [00:50:46] Reloading browsers
+INFO    -  [00:50:47] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [00:50:48] Browser connected: http://ai.akamai.edgesuite-staging.net/1_ai_fundamentals/why_gpus_matter/
+INFO    -  [00:57:11] Detected file changes
+INFO    -  Building documentation...
+INFO    -  Doc file '2_training_inference_rag/inference_architecture.md' contains an absolute link '/assets/ai_inference_flow.png', it was left as is. Did you mean '../assets/ai_inference_flow.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/ai_training_architecture.png', it was left as is. Did you mean '../assets/ai_training_architecture.png'?
+INFO    -  Doc file '2_training_inference_rag/training_architecture.md' contains an absolute link '/assets/gpu_architecture.png', it was left as is. Did you mean '../assets/gpu_architecture.png'?
+INFO    -  [00:57:12] Reloading browsers
+INFO    -  [00:57:12] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [00:57:13] Browser connected: http://ai.akamai.edgesuite-staging.net/1_ai_fundamentals/why_gpus_matter/
+INFO    -  [00:59:25] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/
+INFO    -  [00:59:26] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/cncf_mlopstoolchains/
+INFO    -  [00:59:38] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [00:59:42] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/
+WARNING -  [02:46:51] " ò  î	@Nòä¢ ýt*kÀ)Sôµ" code 400
+WARNING -  [02:46:52] "t3 12.1.2" code 400
+WARNING -  [02:47:31] "GET /robots.txt HTTP/1.1" code 404
+WARNING -  [04:10:11] " {  wJXÔvòËv`.üý^Â?=Ü^MÜýÚGáò?@  À/À+ÀÀÀÀ	ÀÀ" code 400
+WARNING -  [04:10:11] "MGLNDD_104.64.128.179_8000" code 400
+INFO    -  [04:28:31] Browser connected: http://learn-ai.akamaized.net/
+INFO    -  [04:46:32] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/
+INFO    -  [04:46:33] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/
+INFO    -  [04:46:37] Browser connected: http://learn-ai.akamaized.net/3_platforms_ecosystem/nvidia_ecosystem/
+INFO    -  [04:48:04] Browser connected: http://learn-ai.akamaized.net/1_ai_fundamentals/
+INFO    -  [04:48:06] Browser connected: http://learn-ai.akamaized.net/1_ai_fundamentals/foundations_of_modern_ai/
+INFO    -  [04:48:08] Browser connected: http://learn-ai.akamaized.net/1_ai_fundamentals/learning_paradigms/
+INFO    -  [04:48:09] Browser connected: http://learn-ai.akamaized.net/1_ai_fundamentals/
+INFO    -  [04:48:10] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/
+INFO    -  [04:48:13] Browser connected: http://learn-ai.akamaized.net/2_training_inference_rag/training_architecture/
+WARNING -  [05:03:50] "! õrOHïbÒy¢ípq/ì<ÄìBsùw	òî² 'F.¼Ï»?:x÷FRC·ïÊ¤Ä5Ë²~m¼¹ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:50] "! o§]Þª-uéí#hL,ûW^»¸]ë¾.;Î \9\NðJÚ¯¶1´c%\óc~~§²øiw:=oÖ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:50] "! Ô,f#>t 5Ï²ô,´ÕÝ&}¦>ÏG¦ ¯~¹jWè¹,÷E-´«ºñCPêLòÄ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:50] "! §PðlÙqàpÙøzÎ#'@úw¢¯&ü¥¸ ÍF çòBÑò;Æp÷²m]*@gÍ{s¡ÃÁ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:50] "! >|5C$árÎ7¨ê'Ó ÷­4àuNI"K"i^ Å.ñ_~.©£º§ÍÕ5k*¥=Îé'ú´×ùgI»\ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:50] "! 4Ýæó·s+wP7í»ùÇü¶}Ê:sa®Xª ³ÆO»gíg5Xib9ºðâtXÎ[¿ÕÉeù9?R 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:50] "! ü$þAªóI*wûrÙÑ¶x]ö£ñMÎ9ß ¡Oî¶H¸qÏï¡]§ÝÐH¥´ä¬°ì¨1(öj> 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:50] "! Ís@eÜÄ\úv¢YñH¸Tð@&û¬B¥¯ g³I}}Ã6C±ÐB¢¿¡h_&V¶ÆIAÈ	ÍÓ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:50] "! ÓÔÜö|ñÖ)ýÖ¼,1ÍdÑi:÷_;ÞÉÎj òfC]p±ìóüë¬=ø8D¸^0-Ú 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:50] "! ns^IJªU<ÑÃcÿÈÙÀZ9+e"M E°wèþ Î{õÔ&Cò½··}á=>ÚUá  CSp%N¸ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:51] "! {ÚkÂ¬?¸úDºWÝøp¬Á¾H"! OªÅx:mSSA¸m>±Q" code 400
+WARNING -  [05:03:51] "! ÕQëP²¨t\]$-6z©f«×~Ô6%+8i/¹ zs%â Éo#Ríó½øÀ è´Ðñj¦Õ¼0f 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:51] "! /3»#pñ>ê|´iÕ;°Hò¿Ç-3<R Í*Ýò;]\úê±­ä° PøM:àó´#ºÄ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:51] "! ßTÛýùÈY*+Ëªzc¤Sþ" code 400
+WARNING -  [05:03:51] "! Ü¢ËYëÊzIkÃÀ$·#>BPÉ¶<*0Ä ^hk±³âböåüé*bÝîÑ8Ä.õ~ÓIJ4mJÛ; 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:51] "! ®¾>|èÉ;Eþg4g:ÊWìÃ/Æ¾~éHé ¯¾+ÚCgò¡O%c;Ì_:Ì×[ú3/Çr 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:51] "! OmnF=Ø¹÷k&¥/bÐçåúÍÍäm4G ÓA" code 400
+WARNING -  [05:03:51] "!  ÖBmUôM ì ²ÐþyP±ZDZ²_yÚ Ñô¥GÔØkOlñ)Qþ6>áÇl»ûP+õöÙ: 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:51] "! @¨s}" code 400
+WARNING -  [05:03:51] "! ýSÝ±ZÂS68pÎ½ºb ·¡ôOæzDÝ¶ß¸Òõ ÐMm\Bn¬ bD	4Y8ê¿ìBÈ~\P|9÷ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:52] "! Û}ôÌdtxç" code 400
+WARNING -  [05:03:53] "! %»iÇ£w´ZþÂ÷aG ª\¡ü,28â{§fS`ö ¤üLé«?èkà{T,ÙÃ[èUF³Çuk7± 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:54] "! v~6àe1\Hy!Ýe½&D£ÚJæ[W ¾µ:¯~ö<Î\CÔ#%kÈL°6%á^oÚXÒm 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:54] "! w¯Õ:«o­@Ê¼^kÚ4"Q·	,»-9ÇõNGëû ×f 2P¤b)¡" code 400
+WARNING -  [05:03:54] "! B¢(ÉË¹ØäHÐ;óvn¾~Þ½Û\SI¢¢kjyd AöÄe$xØAÓ ï:·ïøXOn£o¤Yb<"]aÏ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:54] "! êº,)1WçAëÇbt" code 400
+WARNING -  [05:03:54] "! î¯¯hû¢tª®ècÏ+ÎbèB¹æìÙM	±þ ô/pcòè]Na m¦Èü·s»áT\3¦» 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:54] "! JêÃF°kE§Ì=ñ«À<êÿüê7,c;³ Ê Jï|ùçâÛuwë/LÏ4c$Æmì 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:54] "! åïE½éä±ìù~´ÏöéÑÐJ`.õKù±ñ c÷ôûO´GVÖh×ä¿þøÔm}uO Ú¹V 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:54] "! â*V@ß¾yu"ÈØgñÝ&wDoUsk,O" Á3ÝÑCÖFÑ»í$YðÃÚrÜ±²hYDdx{ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:54] "! /`z­ò}Å,ª%åÈäé.ý:üü6öb7{ ¨ø¥«RA<²%½J]ákcJåB%v{Ì=lÍ¶ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:54] "! p¦|s'9eA-ä$É,~T`H & æf?¦Pq°D;kníòçÂ­¹}ÄYÚæ3^Ä1; 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:54] "! æð¶êÐGÖ[ûÂz+G¿i¼¶]PÅ¼W ÊY=Z[?þs666ÁüfósÛ~9è·¬ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:54] "! ýÑN¬³C#ÏKB4ÅÝÝGãún÷h£ö"Hy TÀ¶ùqxï8ÿ[èò<e£k¹À­KFî 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:54] "! þÂG"eàÛ1nåáPm¿ÇÆÈ¨IfÒGjWÀE ¬½fËæÝRÖT(½è«A^Z8|È]<d;Ðï¬ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:55] "! 5¯ï§¢ êÍ'/?Á^ÕWóÀeAª:HP Ktäâ|ß:-aÇ6]Ot&¬zGdrM°+ç2a 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:55] "! ¦$Åg¼" code 400
+WARNING -  [05:03:55] "! 8Ò×µTgÑbÌ¤û&ÄuªF:")\iÖd#ÆYè 4ðKÁ;&¡;ë%¹Ý1vÞ(·D[h~ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:55] "! îmtTøcÕHd9XHãÈ²oç{À"I]J ðìCó¯3_÷eøzä¨3öôå1¿DüÞÝô 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:55] "! Ï2³)Fªog|eì©6ø-¼ÝL§%&¯ô§ó\ é¯" code 400
+WARNING -  [05:03:55] "! ªS _òOuó7lQhàÆJ9Uf§åý[ÕL UçÜdAeJFyû®¥è¤0Õ3!^ ÐÇ) 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:03:55] "! Ý$AKs£íÔWÉ)FôÛpëlXõvr,iò ×cPµæ5à4HBx,@]?Ð«SÂ0îæÅBà»W 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:08:12] "! XÓW7þ 0nÌÕÿVb|©ßÔCÃ!â1Dé( 6­lKa¸ª®sºJþå>J³+:0Ày)îZ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:08:12] "! ¹ÕÄºâ.1©weð4sºÞ¾IwDoxN1Þ @.¡[ÓkECVÂm#Þ+ìT^K}vTy;¨ 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:08:12] "! Â#B"¹m{u>X¡Ki" code 400
+WARNING -  [05:08:12] "! MDýrù¨x-&é`_QXÏ _ $?¸>S"Ù £¡Ýò@k¦	áPÞlf÷·à'VÉöV#	¨* 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:08:12] "! FËàå*Ï'xÂ*¡¯ï³þÈVM±ô¯?® !x~¯y6ô-$î»CÓñe> 2[õÔ[¨3 2À+À,À/À0 = < 5 / " code 400
+WARNING -  [05:08:12] "! % ;/¨¸z&¿eGf¦¤Ó Gå.ùÉÅûrTËA ÃRãÞÃ®û¢ØO	ÝÝLbÙÀ{©­;ÉÄ9ö. 2À+À,À/À0 = < 5 / " code 400
