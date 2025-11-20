@@ -1,0 +1,13 @@
+/* Load Roboto and Roboto Mono from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&family=Roboto+Mono:wght@300;400;700&display=swap');
+
+/* Apply Roboto as the global text font */
+:root {
+  --md-text-font: "Roboto", sans-serif;
+  --md-code-font: "Roboto Mono", monospace;
+}
+
+/* Force body text to use Roboto */
+body {
+  font-family: "Roboto", sans-serif;
+}

@@ -3,6 +3,9 @@ site_description: An e-learning handbook for engineers starting their AI journey
 site_author: Brandon Kang
 
 theme:
+  font:
+    text: false
+    code: false
   name: material
   custom_dir: overrides
   features:
@@ -29,14 +32,16 @@ nav:
       - Overview: 2_training_inference_rag/index.md
       - End-to-End AI Training Architecture: 2_training_inference_rag/training_architecture.md
       - Inference Architecture Essentials: 2_training_inference_rag/inference_architecture.md
-      - Vector Databases and RAG: 2_training_inference_rag/vector_databases_and_rag.md
+      - RAG and Vector Databases: 2_training_inference_rag/vector_databases_and_rag.md
   - 3. AI Platforms and Ecosystem:
       - Overview: 3_platforms_ecosystem/index.md
       - CNCF & MLOps Toolchains: 3_platforms_ecosystem/cncf_mlopstoolchains.md
+      - AI Agent: 3_platforms_ecosystem/ai_agent.md
       - NVIDIA Ecosystem: 3_platforms_ecosystem/nvidia_ecosystem.md
   - 4. Summary: summary.md
-  - 5. Quiz:
+  - 5. Feedback & Quiz:
       - AI Knowledge Review: 4_quiz/ai_quiz.md
+      - Feedback: 4_quiz/feedback.md
 
 plugins:
   - search
@@ -61,10 +66,12 @@ extra_css:
   - css/elearn.css
   - css/quiz.css
   - css/footer.css
-  
+  - css/extra.css
+
 extra_javascript:
   - js/quiz.js
 
 extra:
   content_scripts:
     - js/quiz.js
+

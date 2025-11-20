@@ -1,9 +1,9 @@
 .md-footer {
-    font-size: 0.8rem;   /* 기존 0.9rem → 조금 감소 */
+    font-size: 0.7rem;   /* 기존 0.9rem → 조금 감소 */
 }
 
 .custom-footer-text {
-    font-size: 0.9rem;   /* 기존 1rem → 조금 감소 */
+    font-size: 0.8rem;   /* 기존 1rem → 조금 감소 */
     font-weight: 400;
     opacity: 0.9;
 }

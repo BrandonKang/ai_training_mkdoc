@@ -5,10 +5,17 @@
 - Core principle: learn hierarchical patterns from raw data (images, text, audio, logs, etc.)
 
 ---
+# AI Hierarchy
+![AI Hierarchy](/assets/ai_hierarchy.png){ width="60%" }
 
+- Artificial Intelligence is the broad field of making machines solve problems like humans
+- Machine Learning is a subset of AI that learns patterns from data
+- Neural Networks mimic the structure of the brain to recognize complex patterns
+- Deep Learning is a deeper, layered form of neural networks used in vision and language tasks
+
+---
 # Evolution of Neural Network Architectures
-
-<img src="../assets/foundations_of_modern_ai.jpg" alt="Foundations of Modern AI" width="300">
+<img src="/assets/foundations_of_modern_ai.png" alt="Foundations of Modern AI" width="45%">
 
 ## Neural Networks (NN)
 - Basic fully connected layers  
@@ -36,6 +43,14 @@
 - Foundation of modern LLMs (GPT, Llama, Mistral, etc.)  
 - Use cases: LLMs, translation, RAG pipelines, multimodal AI
 
+<figure style="margin:0;">
+  <img src="https://images.shiksha.com/mediadata/ugcDocuments/images/wordpressImages/2023_04_MicrosoftTeams-image-285.jpg"
+       style="width:80%; margin:0;">
+</figure>
+<p style="font-size:0.8em; color:#888; margin:2px 0; white-space:nowrap;">
+  Transformer Architecture Ref.: https://www.shiksha.com/online-courses/articles/transformer-nlp/
+</p>
+
 ---
 
 # Why Transformers Won
@@ -47,7 +62,6 @@
 - Supports modern ecosystems: RAG, fine-tuning, agents, multimodal processing
 
 ---
-
 # Architecture Summary Table
 
 | Model | Key Idea | Strengths | Typical Use Cases |
@@ -57,23 +71,9 @@
 | RNN / LSTM | Recurrent & gated memory | Sequence modeling | Speech, time-series, sequential NLP |
 | Transformer | Attention mechanism | Parallelism, scalability, long-context | LLMs, translation, RAG, multimodal |
 
----
 
-# Transformer Diagram (talking points)
-
-- Encoder or decoder stacks depending on the model  
-- Multi-Head Attention: multiple relational perspectives  
-- Feed-forward networks inside each block  
-- Positional encoding preserves sequence order  
-- Depth & width scale to billions of parameters (e.g., GPT-3, Llama-3)
-
-![Transformer Diagram](../assets/transformer_diagram.png)
-
----
-
-# Optional Video for Learners
-
-<iframe width="560" height="315"
+<p/p>
+<iframe width="700" height="400"
     src="https://www.youtube.com/embed/4Bdc55j80l8"
     title="YouTube video player"
     frameborder="0"
@@ -81,5 +81,4 @@
     allowfullscreen>
 </iframe>
 
-- Helpful visual explanation of attention and Transformer concepts  
-- Complements the text and diagram used in this lesson
+---

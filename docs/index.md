@@ -6,8 +6,9 @@ This handbook is structured as a short, one-hour enablement:
 
 - AI fundamentals and core building blocks (15 min)
 - AI training, inference architecture, and RAG (10 min)
-- AI platforms & ecosystem: CNCF toolchains and NVIDIA acceleration stack (20 min)
-- Quiz
+- AI platforms & ecosystem (20 min)
+- Summary
+- Feedback & Quiz
 
 ---
 

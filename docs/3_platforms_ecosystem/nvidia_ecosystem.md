@@ -24,7 +24,7 @@
 </div>
 ---
 
-# NVIDIA GPU Hardware for AI (Practical Overview)
+## NVIDIA GPU Hardware for AI
 
 - NVIDIA GPUs accelerate the tensor operations required for deep learning  
 - In practice, each GPU family maps to specific use cases:
@@ -39,7 +39,7 @@
 
 ---
 
-# CUDA Platform
+## CUDA Platform
 
 - **CUDA** provides the execution layer for all GPU-accelerated workloads  
 - Why it's practical:
@@ -53,7 +53,7 @@
 ![CUDA Platform](https://modal-cdn.com/gpu-glossary/terminal-cuda-toolkit.svg){ width="70%" }
 
 ---
-# TensorRT and Inference Optimization
+## TensorRT and Inference Optimization
 
 - **TensorRT** is commonly used to optimize and deploy models in production
 - Real-world benefits:
@@ -74,7 +74,7 @@
 
 ---
 
-# NVIDIA Triton Inference Server
+## NVIDIA Triton Inference Server
 
 - Production inference server used widely across cloud/edge
 - Practical reasons teams adopt it:
@@ -88,7 +88,7 @@
   NVIDIA Triton Inference Server, Ref. https://www.nvidia.com/en-us/ai/dynamo-triton/
 </span>
 
-### Typical Triton deployment patterns
+## Typical Triton deployment patterns
 - REST / gRPC endpoints for online inference
 - Autoscaled Kubernetes deployments
 - Multi-model serving (LLM + embedding + reranker on same GPU)
@@ -96,7 +96,7 @@
 
 ---
 
-# NVIDIA NIM
+## NVIDIA NIM
 
 - NIM provides ready-to-deploy microservices for:
     - embedding models
@@ -108,9 +108,15 @@
     - Standardized, versioned container images
     - Works well for trial, PoC, or hybrid-cloud integration
 
+<iframe width="800" height="450" 
+        src="https://www.youtube.com/embed/X12Li9eakF8" 
+        frameborder="0" 
+        allowfullscreen>
+</iframe>
+
 ---
 
-# GPU Management in Kubernetes
+## GPU Management in Kubernetes
 
 ### GPU Operator
 - Automates installation of:
@@ -138,7 +144,7 @@
 
 ---
 
-# Why the NVIDIA Ecosystem Matters
+## Why the NVIDIA Ecosystem Matters
 
 - Provides an **end-to-end production stack** from hardware → runtime → model server
 - Reduces engineering overhead:
